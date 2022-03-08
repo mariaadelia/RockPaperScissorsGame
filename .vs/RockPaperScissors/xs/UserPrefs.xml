@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{90C4495A-47B7-4332-A5ED-55514C418B05}|Default">
-  <MonoDevelop.Ide.ItemProperties.RockPaperScissors FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissors PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissors/Program.cs">
     <Files>
-      <File FileName="RockPaperScissors/Program.cs" Line="9" Column="32" />
+      <File FileName="RockPaperScissors/Program.cs" Line="155" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
